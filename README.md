@@ -37,8 +37,6 @@ Spring Boot Quizzer Backend is the backend implementation of a user-friendly qui
    cd spring-boot-quizzer
 Set up the PostgreSQL database (make sure you have PostgreSQL installed):
 
-sql
-Copy code
 # Create the database
 CREATE DATABASE questiondb;
 Update database configuration in application.properties:

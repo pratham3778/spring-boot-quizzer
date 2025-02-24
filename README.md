@@ -39,6 +39,7 @@ Set up the PostgreSQL database (make sure you have PostgreSQL installed):
 
 # Create the database
 CREATE DATABASE questiondb;
+
 Update database configuration in application.properties:
 
 properties :-

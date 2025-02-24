@@ -42,10 +42,11 @@ CREATE DATABASE questiondb;
 Update database configuration in application.properties:
 
 properties
-Copy code
+```bash
 spring.datasource.url=jdbc:postgresql://localhost:5432/questiondb
 spring.datasource.username=your_database_username
 spring.datasource.password=your_database_password
+
 Run the application:
 
 

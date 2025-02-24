@@ -53,7 +53,7 @@ spring.datasource.password=your_database_password
 Run the application:
 
 # Testing the API
-To test the API endpoints, you can use tools like Postman. Here's how you can get started:
+To test the API endpoints, i have used Postman. Here's how you can get started:
 
 1. Install Postman on your machine (if not already installed).
 2. Open Postman and create a new request.

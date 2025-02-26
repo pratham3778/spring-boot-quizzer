@@ -6,7 +6,7 @@ Spring Boot Quizzer is the backend implementation of a user-friendly quiz applic
 
 ## Features
 
-- Get all quiz questions from the database.
+- Get all quiz questions from the database. 
 - Get quiz questions filtered by category.
 - Add new quiz questions to the database.
 - Create a quiz with random questions.

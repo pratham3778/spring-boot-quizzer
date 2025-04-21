@@ -1,5 +1,5 @@
 # Spring Boot Quizzer Backend
-
+   
 ![GitHub last commit](https://img.shields.io/github/last-commit/pratham3778/spring-boot-quizzer)
   
 Spring Boot Quizzer is the backend implementation of a user-friendly quiz application built with Spring Boot, PostgreSQL, and Spring Data JPA. The backend provides API endpoints to manage quizzes and questions for the quiz application.

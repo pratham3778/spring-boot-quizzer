@@ -1,4 +1,4 @@
-# Spring Boot Quizzer Backend System
+# Spring Boot Quizzer Basic Backend System
    
 ![GitHub last commit](https://img.shields.io/github/last-commit/pratham3778/spring-boot-quizzer)
   
